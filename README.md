@@ -21,15 +21,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/1-repos-per-language.svg">
-
-<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/2-most-commit-language.svg">
-
-<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/3-stats.svg">
-
-<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/4-productive-time.svg">
-
-<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/5-profile-details.svg">
+[![](https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
