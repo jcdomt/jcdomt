@@ -1,0 +1,52 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "17 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+          # 把生成的 SVG 推送到这个分支
+          BRANCH_NAME: summary-cards
+
+          # 中国大陆时间 UTC+8
+          UTC_OFFSET: 8
+
+          # 不排除任何语言
+          EXCLUDE: ""
+
+          # 不排除任何仓库
+          EXCLUDE_REPOS: ""
+
+          # 自动提交生成的 SVG
+          AUTO_PUSH: true
+
+          # 只生成 blueberry 主题
+          THEME: blueberry
+
+          # 不添加动画
+          ANIMATION: ""
+
+          # 使用默认动画速度
+          DURATION: ""
+
+          # 使用默认用户名
+          NAME: ""
