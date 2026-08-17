@@ -21,15 +21,15 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/WZJian/WZJian/summary-cards/profile-summary-card-output/blueberry/1-repos-per-language.svg">
+<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/1-repos-per-language.svg">
 
-<img src="https://raw.githubusercontent.com/WZJian/WZJian/summary-cards/profile-summary-card-output/blueberry/2-most-commit-language.svg">
+<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/2-most-commit-language.svg">
 
-<img src="https://raw.githubusercontent.com/WZJian/WZJian/summary-cards/profile-summary-card-output/blueberry/3-stats.svg">
+<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/3-stats.svg">
 
-<img src="https://raw.githubusercontent.com/WZJian/WZJian/summary-cards/profile-summary-card-output/blueberry/4-productive-time.svg">
+<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/4-productive-time.svg">
 
-<img src="https://raw.githubusercontent.com/WZJian/WZJian/summary-cards/profile-summary-card-output/blueberry/5-profile-details.svg">
+<img src="https://raw.githubusercontent.com/jcdomt/jcdomt/main/profile-summary-card-output/blueberry/5-profile-details.svg">
 
 ---
 
